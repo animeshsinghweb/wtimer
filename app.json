@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "wtimer",
+    "slug": "wtimer",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "wtimer"
+}
